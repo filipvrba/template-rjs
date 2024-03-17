@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "title": "Error",
+      "endpoint": "error",
+      "priority": 0
+    },
+    {
+      "title": "Home",
+      "endpoint": "home",
+      "priority": 2
+    },
+    {
+      "title": "Profile",
+      "endpoint": "home/profile",
+      "priority": 1
+    },
+    {
+      "title": "Test",
+      "endpoint": "home/profile",
+      "priority": 1
+    }
+  ]
+}
